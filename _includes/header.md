@@ -1,4 +1,5 @@
-# [CS50 AP]({{ "/" | relative_url }})
+# [SHS CS50 AP]({{ "/" | relative_url }})
 
-Harvard University\\
-2022-2023
+Seven Hills School\\
+Twyford\\
+2022-2023\\
